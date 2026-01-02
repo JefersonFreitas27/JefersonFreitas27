@@ -17,7 +17,7 @@
 
 <h2>Gráficos</h2>
 
-![Jeferson stats](https://github-readme-stats.vercel.app/api?username=JefersonFreitas27&show_icons=true&theme=transparent)
+
 
 
 <a href="https://github.com/anuraghazra/convoychat">
